@@ -6,6 +6,10 @@ IOS/安卓： 快手极速版解密版
 #快手极速版
 [rewrite_local]
 [MITM]
+
+q群小分队683595687
+
+
 #IOS用第一个，安卓用第二个
 hostname = api.kuaisho*.com
 hostname = open.kuaisho*.com
